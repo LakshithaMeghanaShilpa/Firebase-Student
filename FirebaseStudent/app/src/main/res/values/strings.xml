@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FirebaseStudent</string>
+    <string name="name">Name of the student</string>
+    <string name="specialization">Specialization</string>
+    <string name="usn">USN of the student</string>
+    <string name="department">Department name</string>
+    <string name="send">Send Data</string>
+    <string name="view_data">View Data</string>
+</resources>

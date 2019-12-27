@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1050237416785",
+    "firebase_url": "https://beginnertest-f926b.firebaseio.com",
+    "project_id": "beginnertest-f926b",
+    "storage_bucket": "beginnertest-f926b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050237416785:android:71b2ff8cc12739fa49cf70",
+        "android_client_info": {
+          "package_name": "com.rvce.beginnertest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050237416785-k5f0qkl54trvj9rmbrdvmp433fu6059a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBii0xcinnlTEaFi9ZNMKqmW_dGDL9JeDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050237416785-k5f0qkl54trvj9rmbrdvmp433fu6059a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
